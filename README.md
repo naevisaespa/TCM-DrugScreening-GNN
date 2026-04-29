@@ -1,4 +1,4 @@
-# TCMDA
+# TCM-DrugScreening-GNN
 
 This repository contains the training code for the TCMDA study on prioritizing TCM-derived small molecules for gastric cancer using heterogeneous graph learning.
 
